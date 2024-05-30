@@ -1,0 +1,7 @@
+﻿  perevod2.0.c
+C:\Users\nekoi\source\repos\perevod2.0\perevod2.0\perevod2.0.c(21,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\nekoi\source\repos\perevod2.0\perevod2.0\perevod2.0.c(29,11): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\nekoi\source\repos\perevod2.0\perevod2.0\perevod2.0.c(34,19): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\nekoi\source\repos\perevod2.0\perevod2.0\perevod2.0.c(39,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\nekoi\source\repos\perevod2.0\perevod2.0\perevod2.0.c(16): warning C4716: is_number: должна возвращать значение
+  perevod2.0.vcxproj -> C:\Users\nekoi\source\repos\perevod2.0\x64\Debug\perevod2.0.exe
