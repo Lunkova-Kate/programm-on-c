@@ -1,0 +1,9 @@
+﻿  bitarray.c
+C:\Users\nekoi\source\repos\bitarray\bitarray\bitarray.h(59,4): warning C4013: memset: нет определения; предполагается "extern" с возвратом типа "int"
+  (компиляция исходного файла "bitarray.c")
+  
+C:\Users\nekoi\source\repos\bitarray\bitarray\bitarray.h(95,3): warning C4047: return: "size_t" отличается по уровням косвенного обращения от "void *"
+  (компиляция исходного файла "bitarray.c")
+  
+C:\Users\nekoi\source\repos\bitarray\bitarray\bitarray.c(66,3): warning C4013: memcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  bitarray.vcxproj -> C:\Users\nekoi\source\repos\bitarray\x64\Debug\bitarray.exe
